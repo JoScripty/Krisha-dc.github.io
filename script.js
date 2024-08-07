@@ -12,5 +12,5 @@ document.getElementById("yesBtn").addEventListener('click', () =>{
   const noBtn= document.getElementById("noBtn");
   noBtn.style.display= "none";
 
-  alert("Chat mo den ako ng kahit ano......");
+  alert("Chat mo'ko ng 'Oo na'.");
 })
